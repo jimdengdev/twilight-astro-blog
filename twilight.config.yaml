@@ -5,7 +5,7 @@ site:
     # 站点标题
     title: "JimDeng"
     # 站点副标题
-    subtitle: "Blog Template"
+    subtitle: "Code is Cheap, Show Me the Proof"
     # 语言配置
     lang: "zh-Hans"
     # 翻译配置
@@ -307,13 +307,13 @@ post:
     # 评论配置
     comment:
         # 启用评论功能
-        enable: false
+        enable: true
         # Twikoo 评论系统配置
         twikoo:
             # 环境 ID
             envId: "https://twikoo.jimdeng.com"
             # 语言
-            lang: "en"
+            lang: "zh-Hans"
 
 # 页脚配置
 footer:
