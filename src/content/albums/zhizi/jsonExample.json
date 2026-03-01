@@ -1,0 +1,29 @@
+{
+    "title": "Album Example - 智子",
+    "description": "This is an zhizi album.",
+    "cover": "./智子_ASK.jpg",
+    "date": "2025-01-01T00:00:00.000Z",
+    "location": "Beijing",
+    "tags": ["zhizi"],
+    "layout": "masonry",
+    "columns": 3,
+    "photos": [
+        {
+            "src": "./智子_ASK.jpg",
+            "alt": "智子",
+            "title": "智子 by ASK",
+            "description": "This is a beautiful image from local file",
+            "tags": ["human"]
+        },
+        {
+            "src": "https://picsum.photos/800/600?random=2",
+            "alt": "random image",
+            "title": "Random Image",
+            "description": "This is a beautiful image from external link",
+            "tags": [
+                "scenary"
+            ]
+        }
+    ],
+    "visible": true
+}
