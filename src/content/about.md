@@ -1,21 +1,20 @@
-# About This Site
+# About me
 
-Twilight is a CMS integrated static blog template built with [Astro](https://astro.build) framework.
+# 👋 Hi, I'm Jim Deng
+**Backend Engineer | AICG Enthusiast**
 
-::github{repo="Spr-Aachen/Twilight"}
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jimdengdev&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
+### 🛠️ Tech Arsenal
+- **Core Languages**: Go, Python, C++, Java
+- **Infrastructure**: Docker, Kubernetes, CI/CD
+- **Databases**: MySQL, Redis, MongoDB, Elasticsearch
+- **Specialization**: 
+  - Building high-performance backend services
+  - Developing RAG (Retrieval-Augmented Generation) agent systems
+  - Creating Python automation/scripting solutions
 
-## Milestones
-
-- Integrated content management system in [#1](https://github.com/Spr-Aachen/Twilight/pull/1)
-- Seamless wallpaper mode switching in [#2](https://github.com/Spr-Aachen/Twilight/pull/2)
-- Dynamic content container response in [#47](https://github.com/Spr-Aachen/Twilight/pull/47)
-- Seamless page component loading in [#48](https://github.com/Spr-Aachen/Twilight/pull/48)
-- Smart music playback handling in [#49](https://github.com/Spr-Aachen/Twilight/pull/49)
-- Infinite-level navigation system in [#50](https://github.com/Spr-Aachen/Twilight/pull/50)
-- Comprehensive statistics dashboard in [#51](https://github.com/Spr-Aachen/Twilight/pull/51)
-- Low-barrier configuration scheme in [#58](https://github.com/Spr-Aachen/Twilight/pull/58)
-- Dynamic breakpoint handling in [#68](https://github.com/Spr-Aachen/Twilight/pull/68)
-- Advanced content management in [#73](https://github.com/Spr-Aachen/Twilight/pull/73)
-- Nested category support in [#74](https://github.com/Spr-Aachen/Twilight/pull/74)
-- Comprehensive music card plugin in [#81](https://github.com/Spr-Aachen/Twilight/pull/81)
+### 🚀 Doing
+- I'm deeply interested in AIGC (AI Generated Content) and share new technologies and insights in this field. Feel free to connect or collaborate!
+- Read more about my [Blog](https://jimdeng.com/)
+- Ping me by [Email](mailto:jimdengdev@qq.com)

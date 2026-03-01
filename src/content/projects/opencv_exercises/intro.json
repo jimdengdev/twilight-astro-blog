@@ -1,0 +1,19 @@
+{
+    "title": "OpenCv 练习题",
+    "description": "根据b 站视频学习OpenCV，并完成视频中的练习题 绝大部分API都查了资料、加了注释",
+    "image": "./opencv_logo.png",
+    "category": "学习笔记",
+    "techStack": [
+        "Python",
+        "OpenCV"
+    ],
+    "status": "completed",
+    "sourceCode": "https://github.com/jimdengdev/opencv_exercises",
+    "startDate": "2019-02-25",
+    "endDate": "",
+    "featured": true,
+    "tags": [
+        "Personal Project",
+        "Open Source Project"
+    ]
+}
